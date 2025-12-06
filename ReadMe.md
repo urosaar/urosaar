@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a student at 1337, passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code — especially by creating fun and interactive games.<br><br>🎮 Currently learning more about game logic, graphics, and AI.<br>💡 Always exploring new ways to improve my coding skills and build cool projects.
+Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code — especially by creating fun and interactive games.<br><br>🎮 Currently learning more about game logic, graphics, and AI.<br>💡 Always exploring new ways to improve my coding skills and build cool projects.
 
 
 ## 🌐 Socials:
