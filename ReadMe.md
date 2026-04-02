@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="left">Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐</h4>
+<h3 align="left">Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐</h3>
 
 ###
 
@@ -33,7 +33,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=urosaar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=urosaar&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
