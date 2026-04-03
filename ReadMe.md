@@ -1,8 +1,7 @@
-<br clear="both">
+<!-- <br clear="both"> -->
 
 # About Me:
-
-## <h3 align="left">Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐</h3>
+### Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐<br><br></h3>
 
 ###
 
@@ -26,8 +25,9 @@
   <a href="https://www.linkedin.com/in/oussama-khanfar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="urosaar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  
+  <a href="mailto:oussra061@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -38,5 +38,5 @@
 </div>
 
 ###
-![H](https://urosaar.github.io/git-history-graph-maze/github-snake.)
+![HS](https://urosaar.github.io/git-history-graph-maze/github-snake.gif)
 ###
