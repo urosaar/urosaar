@@ -1,7 +1,7 @@
 <!-- <br clear="both"> -->
 
 # About Me:
-### Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐<br><br></h3>
+### ➜  Hi! I’m a software engineer student , passionate about C/C++ programming.<br>➜  I also do games using c#🎮<br>➜ Currently learning more about AI💡<br><br></h3>
 
 ###
 
