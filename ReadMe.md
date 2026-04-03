@@ -1,6 +1,8 @@
 <br clear="both">
 
-<h3 align="left">Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐</h3>
+# About Me:
+
+## <h3 align="left">Hi! I’m a software engineer student , passionate about C/C++ programming and game development.<br>I love bringing ideas to life through code :) <br>Especially by creating fun and interactive games🎮 <br>Currently learning more about game logic, graphics, and AI💡<br>Always exploring new ways to improve my coding skills and build cool projects ⭐</h3>
 
 ###
 
@@ -36,5 +38,5 @@
 </div>
 
 ###
-[H](https://urosaar.github.io/git-history-graph-maze/github-snake.)
+![H](https://urosaar.github.io/git-history-graph-maze/github-snake.)
 ###
