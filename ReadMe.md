@@ -1,7 +1,7 @@
 <!-- <br clear="both"> -->
 
 # About Me:
-### ➜  Hi! I’m a software engineer student , passionate about C/C++ programming.<br>➜  I also do games using c#🎮<br>➜ Currently learning more about AI💡<br><br></h3>
+### ➜ Hi! I'm a software engineer and Unity game developer specializing in building polished, engaging gameplay experiences with C#.<br>➜ I turn game ideas into responsive mechanics, scalable systems, and optimized experiences in Unity 🎮<br>➜ I also work with C/C++ and explore AI to create smarter, more immersive games 💡
 
 ###
 
